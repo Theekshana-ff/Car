@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drift: 3D Highway Racer",
+  "description": "High-octane 3D arcade highway racing and drifting game featuring responsive handling, traffic dodging, nitro boosts, and dynamic camera action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
